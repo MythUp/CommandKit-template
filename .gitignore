@@ -1,0 +1,10 @@
+.vscode/
+.idea/
+build/
+.gradle/
+run/
+bin/
+*.log
+*.iml
+com/
+net/
