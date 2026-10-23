@@ -10,9 +10,6 @@
   "contact": {},
   "license": "MIT",
   "environment": "client",
-  "mixins": [
-    "myservercommands.mixins.json"
-  ],
   "entrypoints": {
     "client": [
       "com.mythup.myservercommands.MyServerCommandsMod"
